@@ -2,10 +2,10 @@
 
 one:
   name: MyString
-  body: 
+  body: MyText
   post_id: 
 
 two:
   name: MyString
-  body: 
+  body: MyText
   post_id: 
