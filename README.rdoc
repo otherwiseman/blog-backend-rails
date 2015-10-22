@@ -3,3 +3,5 @@
 Working on a simple CMS for a blog app. Owner will be able to add and delete posts, manage comments, set permissions, etc. 
 
 * Rails 4
+
+ todo: add devise for authentication, fix styling
